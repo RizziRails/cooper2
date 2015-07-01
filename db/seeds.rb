@@ -10,4 +10,4 @@
 
 
 
-User.create( name: 'Jose Rizzi', email: 'rizzi@rizzitherm.com.br', role: 2, encrypted_password: '$2a$10$U8tGnYRRr65vxvE/cNADr.l55.oQ0AFlF48r0H8FvOt502zjR9dpm)
+User.create( name: 'Jose Rizzi', email: 'rizzi@rizzitherm.com.br', role: 2, encrypted_password: '$2a$10$U8tGnYRRr65vxvE/cNADr.l55.oQ0AFlF48r0H8FvOt502zjR9dpm')
